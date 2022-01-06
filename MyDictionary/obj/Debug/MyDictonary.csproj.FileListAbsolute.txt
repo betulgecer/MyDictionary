@@ -1,6 +1,0 @@
-C:\Users\PC\source\repos\Kampintro\MyDictonary\bin\Debug\MyDictonary.exe
-C:\Users\PC\source\repos\Kampintro\MyDictonary\bin\Debug\MyDictonary.pdb
-C:\Users\PC\source\repos\Kampintro\MyDictonary\obj\Debug\MyDictonary.csprojAssemblyReference.cache
-C:\Users\PC\source\repos\Kampintro\MyDictonary\obj\Debug\MyDictonary.csproj.CoreCompileInputs.cache
-C:\Users\PC\source\repos\Kampintro\MyDictonary\obj\Debug\MyDictonary.exe
-C:\Users\PC\source\repos\Kampintro\MyDictonary\obj\Debug\MyDictonary.pdb
